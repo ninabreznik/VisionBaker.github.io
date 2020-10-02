@@ -4,4 +4,5 @@
 ### London
 ### EC1V 2NX
 
-[Email](mailto:contact@visionbaker.com?Subject=Hello) and [project](https://playproject.io/)
+[Email](mailto:contact@visionbaker.com?Subject=Hello) 
+[Currently working on Playproject.io](https://playproject.io/)
