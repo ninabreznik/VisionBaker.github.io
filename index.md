@@ -4,5 +4,6 @@
 ### London
 ### EC1V 2NX
 
-[Email](mailto:contact@visionbaker.com?Subject=Hello) 
-[Currently working on Playproject.io](https://playproject.io/)
+[Email me](mailto:contact@visionbaker.com?Subject=Hello) or connect on [Twitter](https://twitter.com/ninabreznik)
+
+**[Currently working on Playproject.io](https://playproject.io/)**
